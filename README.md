@@ -27,3 +27,7 @@ JavaScript utilities for LEAP and similar PHP-based language input systems.
 ├── leap-input-test.php
 └── leap-input.php
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
