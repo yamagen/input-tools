@@ -1,0 +1,14 @@
+# Ignore templates (local drafts or note templates)
+templates/
+.github/
+
+# Ignore backup files
+*~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or scratch files
+*.log
+*.tmp
